@@ -10,6 +10,8 @@ public class Main {
         System.out.println(score);
         if (score > 5) {
             System.out.println("high score!");
+        } else {
+            System.out.println("low score...");
         }
 
     }
