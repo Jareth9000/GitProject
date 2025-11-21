@@ -8,6 +8,9 @@ public class Main {
         System.out.println("Type an integer 1 to 9");
         score += scan.nextInt();
         System.out.println(score);
+        if (score > 5) {
+            System.out.println("high score!");
+        }
 
     }
 }
