@@ -12,6 +12,7 @@ public class Main {
             System.out.println("high score!");
         } else {
             System.out.println("low score...");
+            System.out.println("better luck next time!");
         }
 
     }
